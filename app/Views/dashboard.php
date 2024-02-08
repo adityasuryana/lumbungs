@@ -99,8 +99,8 @@ echo view('_partials/header'); ?>
             </div>
         </div>
 
-        <nav class="navbar navbar-expand-lg fixed-bottom">
-            <div class="container-fluid justify-content-center mb-3">
+        <nav class="navbar bg-white navbar-expand-lg fixed-bottom">
+            <div class="container-fluid justify-content-center my-2">
                 <ul class="navbar-nav navbar-bottom d-contents">
                     <li class="nav-item text-center mx-4">
                         <a class="nav-link d-grid py-0 active" href="<?php echo base_url('/'); ?>"><i class="fa-solid fa-house mb-2"></i>Dashboard</a>
